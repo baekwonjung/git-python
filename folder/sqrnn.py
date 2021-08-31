@@ -1,0 +1,6 @@
+min, max = input('두 수를 입력하세요:').split()
+min= int(min)
+max= int(max)
+#print(min, max)
+a=list(range(min,max))
+print(a)
